@@ -1,4 +1,4 @@
-# Pulmonary Nodule CDSS  
+# 🫁 Pulmonary Nodule CDSS 
 NLP-Driven Clinical Decision Support System for Pulmonary Nodule Follow-up in Radiology Reports  
 **Author:** Shamiso Mubatsa  
 **Course:** SAT 5141 – Clinical Decision Support & AI Modeling  
@@ -166,7 +166,8 @@ All outputs are stored in `cdss_outputs.csv`.
 pip install -r requirements.txt   # if requirements file added later
 python Pulmonary_Nodule_CDSS.ipynb
 
-Discussion & Limitations
+## 🔍 Discussion & Limitations
+
 Weak Label Limitations
 
 Keyword detection may miss subtle nodule descriptions
@@ -185,6 +186,8 @@ Logistic regression cannot understand clinical nuance
 
 No contextual understanding like transformer models (e.g., BioBERT, ClinicalBERT)
 
+
+
 Future Improvements
 
 Upgrade to BERT embeddings
@@ -195,7 +198,7 @@ Add additional clinical features (age, risk, smoking status)
 
 Include image-based modeling (CT or CXR)
 
-Conclusion
+## 🎯 Conclusion
 
 This project demonstrates the feasibility of using NLP to extract clinically relevant information from radiology reports and support decision-making for pulmonary nodule management.
 
