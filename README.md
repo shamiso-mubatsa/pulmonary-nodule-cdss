@@ -3,6 +3,7 @@ NLP-Driven Clinical Decision Support System for Pulmonary Nodule Follow-up in Ra
 **Author:** Shamiso Mubatsa  
 **Course:** SAT 5141 – Clinical Decision Support & AI Modeling  
 **Date:** Fall 2025  
+**Youtube Link** https://youtu.be/U_aJFEwpbnI
 
 ---
 
