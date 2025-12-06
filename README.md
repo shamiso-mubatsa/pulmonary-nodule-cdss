@@ -38,7 +38,7 @@ pulmonary-nodule-cdss/
 ## Dataset Description
 
 ### **Source: OpenI (NIH / Indiana University Chest X-ray Collection)**  
-Dataset link: https://openi.nlm.nih.gov/
+Dataset link: 
 
 Only the **free-text radiology reports** were used for this project.  
 The original dataset includes >3,900 XML reports, which were:
