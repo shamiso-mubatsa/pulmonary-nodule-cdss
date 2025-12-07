@@ -63,7 +63,7 @@ Final fields:
 
 ## Weak Labeling Approach
 
-Because expert-annotated nodule labels are not available in OpenI, *weak labels* were generated using keyword matching:
+Because expert-annotated nodule labels are not available in OpenI, weak labels were generated using keyword matching:
 
 - “nodule”
 - “nodular”
